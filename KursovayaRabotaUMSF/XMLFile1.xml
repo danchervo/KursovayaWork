@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Employee>
+    <Initials>Афганова У.У</Initials>
+    <Specialization>Гинеколог</Specialization>
+    <NumberOfCabinet>199</NumberOfCabinet>
+    <Day>Понедельник</Day>
+    <Time>15:55</Time>
+  </Employee>
+  <Employee>
+    <Initials>Бобик К.У</Initials>
+    <Specialization>Стоматолог</Specialization>
+    <NumberOfCabinet>181</NumberOfCabinet>
+    <Day>Вторник</Day>
+    <Time>15:11</Time>
+  </Employee>
+  <Employee>
+    <Initials>Брусникова Г.У</Initials>
+    <Specialization>Ортодонт</Specialization>
+    <NumberOfCabinet>122</NumberOfCabinet>
+    <Day>Вторник</Day>
+    <Time>13:11</Time>
+  </Employee>
+  <Employee>
+    <Initials>Алексеева Г.Г</Initials>
+    <Specialization>Ортодонт</Specialization>
+    <NumberOfCabinet>120</NumberOfCabinet>
+    <Day>Воскресенье</Day>
+    <Time>11:11</Time>
+  </Employee>
+  <Employee>
+    <Initials>Сидоренко Н.А</Initials>
+    <Specialization>Терапевт</Specialization>
+    <NumberOfCabinet>303</NumberOfCabinet>
+    <Day>Середа</Day>
+    <Time>14:00</Time>
+  </Employee>
+  <Employee>
+    <Initials>Шеховцова У.У</Initials>
+    <Specialization>Ортодонт</Specialization>
+    <NumberOfCabinet>191</NumberOfCabinet>
+    <Day>Понедельник</Day>
+    <Time>15:22</Time>
+  </Employee>
+  <Employee>
+    <Initials>Акторов К.Ц</Initials>
+    <Specialization>Ортодонт</Specialization>
+    <NumberOfCabinet>185</NumberOfCabinet>
+    <Day>Среда</Day>
+    <Time>14:22</Time>
+  </Employee>
+</NewDataSet>

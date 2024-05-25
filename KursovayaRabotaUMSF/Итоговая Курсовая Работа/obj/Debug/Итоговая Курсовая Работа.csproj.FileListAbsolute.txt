@@ -1,0 +1,20 @@
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\bin\Debug\Итоговая Курсовая Работа.exe.config
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\bin\Debug\Итоговая Курсовая Работа.exe
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\bin\Debug\Итоговая Курсовая Работа.pdb
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.csproj.AssemblyReference.cache
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая_Курсовая_Работа.Form1.resources
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая_Курсовая_Работа.Properties.Resources.resources
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.csproj.GenerateResource.cache
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.csproj.CoreCompileInputs.cache
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.exe
+C:\C#\Итоговая Курсовая Работа\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.pdb
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\bin\Debug\Итоговая Курсовая Работа.exe.config
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\bin\Debug\Итоговая Курсовая Работа.exe
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\bin\Debug\Итоговая Курсовая Работа.pdb
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.csproj.AssemblyReference.cache
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая_Курсовая_Работа.Form1.resources
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая_Курсовая_Работа.Properties.Resources.resources
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.csproj.GenerateResource.cache
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.csproj.CoreCompileInputs.cache
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.exe
+C:\C#\KursovayaRabotaUMSF\Итоговая Курсовая Работа\obj\Debug\Итоговая Курсовая Работа.pdb

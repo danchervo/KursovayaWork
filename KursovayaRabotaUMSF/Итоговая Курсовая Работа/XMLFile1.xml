@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+	<Employee>
+		<Initials>Афганова У.У</Initials>
+		<Specialization>Гинеколог</Specialization>
+		<NumberOfCabinet>199</NumberOfCabinet>
+		<Day>Понедельник</Day>
+		<Time>15:55</Time>
+	</Employee>
+	<Employee>
+		<Initials>Шеховцова У.У</Initials>
+		<Specialization>Ортодонт</Specialization>
+		<NumberOfCabinet>191</NumberOfCabinet>
+		<Day>Понедельник</Day>
+		<Time>15:22</Time>
+	</Employee>
+	<Employee>
+		<Initials>Брусникова Г.У</Initials>
+		<Specialization>Ортодонт</Specialization>
+		<NumberOfCabinet>122</NumberOfCabinet>
+		<Day>Вторник</Day>
+		<Time>13:11</Time>
+	</Employee>
+</NewDataSet>
